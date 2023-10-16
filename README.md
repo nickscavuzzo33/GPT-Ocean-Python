@@ -19,6 +19,8 @@ The 13 total predictions will be made for the follow times (in EST):
 12pm
 
 # Description
+Provided in this repository are all the packages you will need to clone, install, and start predicting. Where they must make all predictions in the 8h prior to judging, and accuracy = % correct predictions). They'd start with pdr-predictoor bot, then bring in their own AI/ML approaches to predict.
+
 
 
 
