@@ -18,6 +18,8 @@ The 13 total predictions will be made for the follow times (in EST):
 11:50am
 12pm
 
-Getting Started
+# Getting Started
 
 You will clone and use the pdr-predictoor bot
+
+# Evaluation Criteria
