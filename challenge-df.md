@@ -7,28 +7,19 @@ SPDX-License-Identifier: Apache-2.0
 
 ## 0. Introduction
 
-This README provides instructions to participate in Challenge Data Farming (DF). 
+This README provides instructions to participate in ETH Miami Hackathon (OCEAN)
 
 ### 0.1 Prizes
 
-Prize Pool: 5,000 OCEAN
+Prize Pool: 3,000 OCEAN 
 
-- 1st place: 2,500 OCEAN
-- 2nd place: 1,500 OCEAN
-- 3rd place: 1,000 OCEAN
-
-We will identify winners by the blockchain account they use in the competition (on Mumbai). Rewards get distributed as part of DF rewards: we allocate OCEAN to winners' accounts on Ethereum mainnet as part of Active Rewards contract.
-
-### 0.2 Key dates
-
-Challenge DF is a recurrent weekly challenge, as part of DF.
-
-- Submission deadline: Every Wednesday at 23:59 UTC when the Data Farming round finishes.
-- Prediction at times: Every Thursday at 00:05 UTC, 00:10, ..., 1:00 (12 predictions total).
+- 1st place: 1,500 OCEAN
+- 2nd place: 1,000 OCEAN
+- 3rd place: 500 OCEAN
 
 ### 0.3 Criteria to win
 
-The winner = whoever has lowest prediction error. That's all. :chart_with_upwards_trend:
+The winner = whoever has the lowest prediction error. That's all. :chart_with_upwards_trend:
 
 To be eligible, competitors must produce the outcomes that this README guides. This includes:
 
@@ -39,17 +30,13 @@ To be eligible, competitors must produce the outcomes that this README guides. T
 
 If there is >1 submission by the same address, then the most recent one (that still meets the deadline) is used.
 
-### 0.4 Claim rewards
-
-- Go to the DF Webapp's [Active Rewards](https://df.oceandao.org/rewards#activerewards) section.
-- Click the "CLAIM REWARDS" button. This will claim _all_ your Active DF rewards -- from Challenge DF and otherwise.
 
 ### 0.5 Developer support
 
 If you encounter issues, feel free to reach out :raised_hand:
 
 - [Ocean #dev-support Discord](https://discord.com/channels/612953348487905282/720631837122363412)
-- [Ocean #data-challenges Discord](https://discord.com/channels/612953348487905282/993828971408003152).
+- [Ocean #data-science-hub Discord](https://discord.gg/DHaPNE2NVt).
 
 ### 0.6 Outline of this README
 
