@@ -27,13 +27,13 @@ The purpose of this challenge is to predict the price of ETH in the 13 provided 
 # Challenge Flow
 There are a few steps to follow:
 
-1 here is data source
+1 Select a data source for your predictions
 
-2 build a model
+2 Build a model
 
 3 run model
 
-4 submit answers, install ocean py and deploy nft with answers 
+4 submit answers, install ocean.py and deploy an nft with your answers for the given time slots
 
 
 # Evaluation Criteria
