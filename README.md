@@ -13,7 +13,7 @@ Step 2 Build your model
 
 Step 3 Run your Model 
 
-Step 4 Install Ocean.py (relevant files attached in repo) and deploy your answers inside a dataNFT
+Step 4 Install [Ocean.py](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/installoceanpy.md) (relevant files attached in repo) and deploy your answers inside a dataNFT
 
 
 
