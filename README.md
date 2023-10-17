@@ -6,7 +6,7 @@ ETH Miami Ocean Data Challenge Content and Instructions
 In this challenge, you will be asked to predict the value of ________ in 13 different time intervals between the hours of 10am and 12pm on October 29th (the last hackathon day)
 This challenge presents a fantastic opportunity to collaborate and compete against top data scientists globally and join the Ocean Protocol Data Science initiative to 1) Empower the data scientist community and 2) Grow the adoption of Ocean Technology.
 
-## Criteria
+## Challenge Specs
 Step 1 Clone the [PDR Backend Repository](https://github.com/oceanprotocol/pdr-backend)
 
 Step 2 Build your model 
@@ -21,6 +21,5 @@ Step 4 Install [Ocean.py](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIA
 ## Data Source 
 
 
-
 ## Evaluation Criteria 
-The evaluation for this hackathon-based data challenge is simple. He/She who is most accurate among the 13 prediction intervals will win
+The evaluation for this hackathon-based data challenge is simple. He/She who is most accurate among the 13 prediction intervals will win. To submit an entry, you will upload your response as a dataNFT to the Ocean Market using Ocean.py. Be sure to include a tag of 'ETHMiami2023' in your entry.
