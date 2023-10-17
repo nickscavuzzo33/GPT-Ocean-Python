@@ -101,7 +101,7 @@ def _nft_addr_to_pred_vals(nft_addr: str, judge_acct) -> List[float]:
 def _get_cex_vals(deadline_dt: datetime) -> List[float]:
     now = datetime.now(timezone.utc)
     # pylint: disable=superfluous-parens
-    newest_cex_dt = deadline_dt + timedelta(minutes=(1 + 12 * 5))
+    newest_cex_dt = deadline_dt + timedelta(minutes=(1 + 10 * 3))
     print("get_cex_vals: start")
     print(f"  now           = {now} (UTC)")
     print(f"  deadline_dt   = {deadline_dt} (UTC)")
@@ -112,7 +112,7 @@ def _get_cex_vals(deadline_dt: datetime) -> List[float]:
 
     start_dt = deadline_dt + timedelta(minutes=1)
     target_dts = [
-        start_dt + timedelta(minutes=_min) for _min in range(5, 5 + 12 * 5, 5)
+        start_dt + timedelta(minutes=_min) for _min in range(10, 10 + 10 * 3, 3)
     ]
     target_uts = [dt_to_ut(dt) for dt in target_dts]
     print_datetime_info("target times", target_uts)
@@ -125,7 +125,7 @@ def _get_cex_vals(deadline_dt: datetime) -> List[float]:
         st=target_dts[0].strftime("%Y-%m-%d_%H:%M"),
         fin=target_dts[-1].strftime("%Y-%m-%d_%H:%M"),
         target_currency="USDT",
-        interval="5m",
+        interval="10m",
     )
     cex_vals = cex_vals[:12]
     print(f"  cex BTC price is ${cex_vals[0]} at target time 0")
