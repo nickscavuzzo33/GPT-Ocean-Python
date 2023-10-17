@@ -7,7 +7,7 @@ In this challenge, you will be asked to predict the value of ________ in 13 diff
 This challenge presents a fantastic opportunity to collaborate and compete against top data scientists globally and join the Ocean Protocol Data Science initiative to 1) Empower the data scientist community and 2) Grow the adoption of Ocean Technology.
 
 ## Criteria
-Step 1 clone the PDR Backend Repository 
+Step 1 clone the [PDR Backend Repository] (https://github.com/oceanprotocol/pdr-backend)
 
 Step 2 Build your model 
 
