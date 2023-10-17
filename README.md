@@ -1,5 +1,5 @@
 # OceanProtocol-ETHMIAMI
-## ETH Miami Ocean Data Challenge Content and Instrcutions 
+## ETH Miami Ocean Data Challenge Content and Instructions 
 
 This Challenge will be about live predicting token price movements for 13 different preselected time periods. You will predict the price of Ethereum (ETH) for predetermined time intervals on the last day of the ETHMiami Hackathon, October 29th, between 10am-12pm. 
 
@@ -18,15 +18,13 @@ The 13 total predictions will be made for the follow times (in EST):
 11:50am
 12pm
 
-# Description
-Provided in this repository are all the packages you will need to clone, install, and start predicting. Where they must make all predictions in the 8h prior to judging, and accuracy = % correct predictions). You will start with pdr-predictoor bot, then bring in your own AI/ML approaches to predict the time slots. 
+# Objective
+The purpose of this challenge is to predict the price of ETH in the 13 provided time intervals mentioned above. Inside this repository are all the packages you will need to install, and start predicting. A data source is provided as a suggestion. 
 
 
 
 
 # Getting Started
-
-You will clone and use the pdr-predictoor bot
 
 
 # Evaluation Criteria
