@@ -143,13 +143,12 @@ For more details on PM2:
 
 ## Next step
 
-You're now running a local bot on a remote network. Congrats!
-
+You're now running a local bot on a remote network. Congrats! Now, we will run a Dynamic Model
 
 (Note: you could always skip running a remote bot, and instead only run local bots on testnet and mainnet via this README. However, this requires your local machine to be continuously running bots. We recommend running remote bots.)
 
 
-# Run Dynamic Model Predictoor
+# FINAL STEP Run Dynamic Model Predictoor
 
 Here, we build models on-the-fly, ie dynamic models. It's `approach3` in `pdr-backend` repo.
 
