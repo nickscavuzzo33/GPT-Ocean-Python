@@ -12,19 +12,6 @@ Get tokens
 
 [Install PDR-backend](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/install%20pdr%20backend%20.md)
 
-In console:
-'''console
-# clone the repo and enter into it
-git clone https://github.com/oceanprotocol/pdr-backend
-cd pdr-backend
-
-# Create & activate virtualenv
-python -m venv venv
-source venv/bin/activate
-
-# Install modules in the environment
-pip install -r requirements.txt
-
 Set Envars
 
 Set-up dynamic model
@@ -35,7 +22,7 @@ PDR-backend requirnments.txt
 
 Folder that includes all files necessary for the dynamic model creation
 
-Any other scripts or config files necessary to run a local predictoor bot on remote network with a dynamic model
+Any other scripts or config files necessary to run a local predictoor bot on a remote network with a dynamic model
 
 Step 1 Run a [dynamic model predictoor](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/dynamic-model%20.md)
 
