@@ -2,12 +2,14 @@
 ETH Miami Ocean Data Challenge Content and Instructions 
 
 
-## Objective 
+## Challenge Objective 
 In this challenge, you will be asked to predict the value of the ETH-USDT token pair in 96 different time slots between the hours of 4am and 12pm on October 29th (the last hackathon day)
 
 This challenge presents a fantastic opportunity to collaborate and compete against top data scientists globally and join the Ocean Protocol Data Science initiative to 1) Empower the data scientist community and 2) Grow the adoption of Ocean Technology.
 
-## Challenge Specs
+## Challenge Description 
+Provided in this repository is directions for you to run a [Local Predictoor Bot on a Remote Netowork](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/localbot-remotenet.md)
+
 Repo Includes ReadMEs for How to:
 Get tokens
 
