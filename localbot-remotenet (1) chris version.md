@@ -1,7 +1,6 @@
-# Run Local Predictoor/Trader Bot, Remote Network
+# Run Local Predictoor Bot, Remote Network
 
 This README describes:
-- Running a *local predictoor or trader* bot (agent)
 - On a *remote network* where other bots are remote
 - It uses containers
 
@@ -82,10 +81,6 @@ If you're running a **predictoor** bot:
 - If model-based: tune with help of [dynamic model](./dynamic-model.md) or [static model](static-model.md) READMEs.
 - And for further tuning: the [local predictoor README](localpredictoor-localnet.md) has more options.
 
-If you're running a **trader** bot:
-- Typically you have nothing else to configure.
-- And for further tuning: the [local trader README](localtrader-localnet.md) has more options.
-
 ## Run Bot
 
 [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/) is "a daemon process manager that will help you manage and keep your application online."
@@ -150,9 +145,10 @@ For more details on PM2:
 
 You're now running a local bot on a remote network. Congrats!
 
-Your next step is to run a _remote_ bot on a remote testnet. [Here's the README](./remotebot-remotenet.md).
 
 (Note: you could always skip running a remote bot, and instead only run local bots on testnet and mainnet via this README. However, this requires your local machine to be continuously running bots. We recommend running remote bots.)
+
+Approach 3 running a dynamic Model 
 
 ## Other READMEs
 
