@@ -8,26 +8,19 @@ In this challenge, you will be asked to predict the value of the ETH-USDT token 
 This challenge presents a fantastic opportunity to collaborate and compete against top data scientists globally and join the Ocean Protocol Data Science initiative to 1) Empower the data scientist community and 2) Grow the adoption of Ocean Technology.
 
 ## Challenge Description 
-Provided in this repository is directions for you to run a [Local Predictoor Bot on a Remote Netowork](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/localbot-remotenet.md)
+Provided in this repository is directions for you to run a [Local Predictoor Bot on a Remote Netowork](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/localbot-remotenet.md). Further you will follow the course to be able to:
 
-Repo Includes ReadMEs for How to:
-Get tokens
+1) Get tokens
 
-[Install PDR-backend](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/install%20pdr%20backend%20.md)
+2) [Install PDR-backend](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/install%20pdr%20backend%20.md)
 
-Set Envars
+3) Set Envars
 
-Set-up dynamic model
+4) Set-up dynamic model
 
-Set PM2 bot
+5) Set PM2 bot
 
-PDR-backend requirnments.txt
-
-Folder that includes all files necessary for the dynamic model creation
-
-Any other scripts or config files necessary to run a local predictoor bot on a remote network with a dynamic model
-
-Step 1 Run a [dynamic model predictoor](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/dynamic-model%20.md)
+6) PDR-backend requirnments.txt
 
 ## User Competition Flow 
 Git clone  PDR-Predictoor
