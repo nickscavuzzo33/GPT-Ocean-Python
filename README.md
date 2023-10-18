@@ -3,7 +3,8 @@ ETH Miami Ocean Data Challenge Content and Instructions
 
 
 ## Objective 
-In this challenge, you will be asked to predict the value of ________ in 13 different time intervals between the hours of 10am and 12pm on October 29th (the last hackathon day)
+In this challenge, you will be asked to predict the value of the ETH-USDT token pair in 96 different time slots between the hours of 4am and 12pm on October 29th (the last hackathon day)
+
 This challenge presents a fantastic opportunity to collaborate and compete against top data scientists globally and join the Ocean Protocol Data Science initiative to 1) Empower the data scientist community and 2) Grow the adoption of Ocean Technology.
 
 ## Challenge Specs
