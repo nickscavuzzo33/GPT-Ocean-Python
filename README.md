@@ -12,6 +12,17 @@ Get tokens
 
 [Install PDR-backend](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/install%20pdr%20backend%20.md)
 
+'''# clone the repo and enter into it
+git clone https://github.com/oceanprotocol/pdr-backend
+cd pdr-backend
+
+# Create & activate virtualenv
+python -m venv venv
+source venv/bin/activate
+
+# Install modules in the environment
+pip install -r requirements.txt
+
 Set Envars
 
 Set-up dynamic model
