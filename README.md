@@ -12,7 +12,8 @@ Get tokens
 
 [Install PDR-backend](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/install%20pdr%20backend%20.md)
 
-'''
+In console:
+'''console
 # clone the repo and enter into it
 git clone https://github.com/oceanprotocol/pdr-backend
 cd pdr-backend
