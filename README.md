@@ -26,14 +26,6 @@ Any other scripts or config files necessary to run a local predictoor bot on a r
 
 Step 1 Run a [dynamic model predictoor](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/dynamic-model%20.md)
 
-Step 2 Build your model 
-
-Step 3 Run your Model 
-
-Step 4 Install [Ocean.py](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/installoceanpy.md) (relevant files attached in repo) and deploy your answers inside a dataNFT
-
-There are a few outlets to building the dynamic prediction bot. The simple route is to use a local predictoor in a remote testnet. To begin your process, you can start by starting local predictoor, local network (barge) then go to local predictoor, remote testnet. 
-
 ## User Competition Flow 
 Git clone  PDR-Predictoor
 
@@ -55,3 +47,7 @@ Deploy PM2 bot to begin producing predictions
 
 ## Evaluation Criteria 
 The evaluation for this hackathon-based data challenge is simple. He/She who is most accurate among the 13 prediction intervals will win. To submit an entry, you will upload your response as a dataNFT to the Ocean Market using Ocean.py. Be sure to include a tag of 'ETHMiami2023' in your entry.
+
+## Support
+
+For live support to the Ocean Core Team, please reach out via Discord in our server, under channel #data-science-hub : https://discord.gg/DHaPNE2NVt
