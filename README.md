@@ -10,7 +10,7 @@ This challenge presents a fantastic opportunity to collaborate and compete again
 Repo Includes ReadMEs for How to:
 Get tokens
 
-Install PDR-backend
+[Install PDR-backend](https://github.com/nickscavuzzo33/OceanProtocol-ETHMIAMI/blob/main/install%20pdr%20backend%20.md)
 
 Set Envars
 
